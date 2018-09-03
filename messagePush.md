@@ -43,4 +43,6 @@ s.dependency 'UMCPush'
 
 ## 推送消息处理
 
-详见BCLLockModule_Module.m内对appdelegate方法的处理(代码剖析-proxy Appdelegate的方法有提及)ß
+详见BCLLockModule_Module.m内对appdelegate方法的处理(代码剖析-proxy Appdelegate的方法有提及)
+
+<a name="点此" herf="./provider"></a>

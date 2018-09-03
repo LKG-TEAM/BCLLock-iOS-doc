@@ -12,8 +12,8 @@ s.dependency 'BabyBluetooth', '~> 0.7.0'
 
 BlueToothManager是个单例类，使用类方法再封装BabyBluetooth相关代码；</br>
 
-![avatar](../images/6.jpg)
+![avatar](images/6.jpg)
 
 BLE文件下核心类是BLECommandManager这个单例类，这个类的工作是封装蓝牙指令。
 
-![avatar](../images/7.jpg)
+![avatar](images/7.jpg)

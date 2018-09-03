@@ -2,7 +2,7 @@
 
 只需要创建一个EGProvider的分类，在此分类内重写Appdelegate的方法即可被proxy到
 
-![avatar](../images/4.jpg)
+![avatar](images/4.jpg)
 
 在这里我们为了EGProvider+BCLLockModule的干净、优雅，将方法的实现扔到了BCLLockModule_Module中。</br>
 友盟的实现、接收到推送的实现均可在BCLLockModule_Module中理解。
@@ -28,7 +28,7 @@
 
 在该项目中我们并未使用到需要oc调用js方法的场景，可以拿另外的项目举例
 
-![avatar](../images/5.jpg)
+![avatar](images/5.jpg)
 
 如图存下viewmodel的hash值，我这里使用的是用一个单例属性
 
